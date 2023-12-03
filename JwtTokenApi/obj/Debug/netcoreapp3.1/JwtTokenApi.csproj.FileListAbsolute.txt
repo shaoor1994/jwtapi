@@ -1,0 +1,6 @@
+E:\Development\Dotnet\jwtapi\JwtTokenApi\obj\Debug\netcoreapp3.1\JwtTokenApi.csproj.AssemblyReference.cache
+E:\Development\Dotnet\jwtapi\JwtTokenApi\obj\Debug\netcoreapp3.1\JwtTokenApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\Dotnet\jwtapi\JwtTokenApi\obj\Debug\netcoreapp3.1\JwtTokenApi.AssemblyInfoInputs.cache
+E:\Development\Dotnet\jwtapi\JwtTokenApi\obj\Debug\netcoreapp3.1\JwtTokenApi.AssemblyInfo.cs
+E:\Development\Dotnet\jwtapi\JwtTokenApi\obj\Debug\netcoreapp3.1\JwtTokenApi.csproj.CoreCompileInputs.cache
+E:\Development\Dotnet\jwtapi\JwtTokenApi\obj\Debug\netcoreapp3.1\JwtTokenApi.MvcApplicationPartsAssemblyInfo.cache
