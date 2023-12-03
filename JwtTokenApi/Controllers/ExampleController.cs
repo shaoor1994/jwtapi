@@ -103,3 +103,4 @@ private async Task<string> MakeGetRequest(string apiUrl, string jwtToken)
         }
     }
 }
+
